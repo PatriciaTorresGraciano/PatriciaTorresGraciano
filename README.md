@@ -15,5 +15,5 @@
   ##
   
  <div>
-   ![Snake animation](https://github.com/patriciatorresgraciano/patriciatorresgraciano/blob/output/github-contribution-grid-snake.svg)
+   ![Snake animation](https://github.com/PatriciaTorresGraciano/PatriciaTorresGraciano/blob/output/github-contribution-grid-snake.svg)
   </div>
