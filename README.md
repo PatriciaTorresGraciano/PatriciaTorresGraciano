@@ -1,6 +1,6 @@
-### Olá, eu sou Patrícia Torres 👋
+### Olá, eu sou Patrícia 👋
 
-<ul style="list-style-type: none;">
+<ul style="list-style-type : none;">
 <li> 😀 Tenho 24 anos </li>
 <li> 🎓 Sou formada em Design Gráfico </li>
 <li> 🖥️ Curso Análise e Desenvolvimento de Sistemas </li>
