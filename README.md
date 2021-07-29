@@ -1,4 +1,12 @@
 ### Olá, eu sou Patrícia Torres 👋
+
+<ul style="list-style-type: none;">
+<li> 😀 Tenho 24 anos </li>
+<li> 🎓 Sou formada em Design Gráfico </li>
+<li> 🖥️ Curso Análise e Desenvolvimento de Sistemas </li>
+<li> ❤️ Sou apaixonada por tecnologia </li>
+</ul> 
+
  <div>
   <a href="https://github.com/PatriciaTorresGraciano">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=patriciatorresgraciano&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
@@ -16,8 +24,6 @@
    
 </div>
 
- ### Seja Bem vindo(a)!!!
- ##
  <div style="display: inline_block"><br>
   
   ![Snake animation](https://github.com/PatriciaTorresGraciano/PatriciaTorresGraciano/blob/output/github-contribution-grid-snake.svg)
