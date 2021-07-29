@@ -12,6 +12,8 @@
   <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
 </div>
 
+ ### Seja Bem vindo(a)!!!
+ ##
  <div style="display: inline_block"><br>
   
   ![Snake animation](https://github.com/PatriciaTorresGraciano/PatriciaTorresGraciano/blob/output/github-contribution-grid-snake.svg)
