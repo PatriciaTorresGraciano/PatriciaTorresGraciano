@@ -29,6 +29,10 @@
    &nbsp;&nbsp;
   <img align="center" alt="node" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
     &nbsp;&nbsp;
+   <img align="center" alt="node" height="30" width="30" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg">
+    &nbsp;&nbsp;
+   <img align="center" alt="node" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg">
+    &nbsp;&nbsp;
   <img align="center" alt="MYSQL" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-plain-wordmark.svg">
    &nbsp;&nbsp;
 </div>
