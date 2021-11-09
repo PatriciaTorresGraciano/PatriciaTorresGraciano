@@ -1,7 +1,7 @@
 ### Olá, eu sou Patrícia 👋
 
 <ul style="list-style-type : none;">
-<li> 😀 Tenho 24 anos </li>
+<li> 😀 Tenho 25 anos </li>
 <li> 🎓 Sou formada em Design Gráfico </li>
 <li> 🖥️ Estou cursando Análise e Desenvolvimento de Sistemas </li>
 <li> ❤️ Sou apaixonada por tecnologia </li>
