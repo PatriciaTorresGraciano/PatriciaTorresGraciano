@@ -1,21 +1,28 @@
 <div align=center>
-<img src="https://user-images.githubusercontent.com/72994902/143980286-5516a68e-f23a-4bc1-b866-7357d6089a17.png" width="300px">
+<img src="https://user-images.githubusercontent.com/72994902/143989320-ce0508ce-fdc1-4a77-9e61-747e987dd88c.jpg">
 </div>
-       
-<h3 align="center"> A economia para seu bolso e um mundo melhor </h3>
+<br>  
 
-<h4 align="center"> A proposta do nosso projeto é relacionada ao Objetivos de Desenvolvimento Sustentável 7 da ONU que visa garantir acesso à energia confiável, sustentável, barata e renovável para todos.
-</h4>
-
-<div align="center">
-<img src="https://user-images.githubusercontent.com/72994902/143981272-21bfa702-5f0a-4a61-a8af-51ef5a53c7ba.png" width="150px" align="center"> 
- </div>
- 
- <h2 align="center"> Sobre a Clean Energy </h2>
- 
 <p align="center"> A Clean Energy surgiu como solução para o problema que enfrentamos, através de um e-commerce promovemos a aquisição de equipamentos com uso de energia renovável, como painéis solares, aquecedores de água, entre outros.</p>
+<br>
+
+
+<table border="0" cellpadding="0" cellspacing="0">
+       <tr>
+          <td>
+                 <img src="https://user-images.githubusercontent.com/72994902/143981272-21bfa702-5f0a-4a61-a8af-51ef5a53c7ba.png" width="250px"> 
+          </td>
+          <td>
+                 <h4 align="left"> A proposta do nosso projeto é relacionada ao Objetivos de Desenvolvimento Sustentável 7 da 
+       ONU que visa garantir acesso à energia confiável, sustentável, barata e renovável para todos.
+</h4>
+          </td>
+       </tr>
+</table>       
+              
+ <br>
  
-<h4>🚀 Tecnologias utilizadas em nossa aplicação: </h4>
+<h2>🚀 Tecnologias utilizadas em nossa aplicação: </h2>
 
  <div style="display: inline_block"><br>
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -36,7 +43,9 @@
    &nbsp;&nbsp;
 </div>
 
-<h4>🛠️ Ferramentas: </h4>
+<br>
+
+<h2>🛠️ Ferramentas: </h2>
 <ul>
   <li>
     <a href="https://trello.com/b/dGkhc4AV/carrinho-social">Trello</a> - Utilizamos para organização do projeto.
@@ -45,10 +54,10 @@
      <a href="https://discord.com/"> Discord</a> - Utilizamos para realizar reuniões.
  </li>
  </ul>
+ 
 
-<h4>💻 Cotribuidores: </h4>
+<h2>💻 Cotribuidores: </h2>
   
-
 <table>
   
   <tr>
@@ -58,3 +67,4 @@
     <td align="center"><a href="https://github.com/RuanSDias"><img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/89783106?v=4" width="100px;" alt=""/><br /><sub><b>Ruan Dias</b></sub></a><br /></td>
   </tr>
 </table>
+
